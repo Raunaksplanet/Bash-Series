@@ -10,7 +10,7 @@
 |---------------------------------------|---------------------------------------------------------------------------------------------------------|
 | **Introduction**                      |                                                                                                         |
 | First Program in Bash                 | [🔗 Hello World](https://github.com/Raunaksplanet/Bash-Series/blob/main/BashFiles/FirstProgram.sh)      |
-
+| Basics in Bash                        | [🔗 comment,user input,variable](https://github.com/Raunaksplanet/Bash-Series/blob/main/BashFiles/BashBasics.sh)      |
 
 
 # Bash Syllabus 
