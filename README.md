@@ -11,8 +11,8 @@
 | **Introduction**                      |                                                                                                         |
 | First Program in Bash                 | [🔗 Hello World](https://github.com/Raunaksplanet/Bash-Series/blob/main/BashFiles/FirstProgram.sh)      |
 | Basics in Bash                        | [🔗 comment,user input,variable](https://github.com/Raunaksplanet/Bash-Series/blob/main/BashFiles/BashBasics.sh)      |
-| If Else in Bash                       | [🔗 if,else,Maximum Num](https://github.com/Raunaksplanet/Bash-Series/blob/main/BashFiles/if_else.sh)      |
-
+| Conditional in Bash                   | [🔗 if,else,Maximum Num](https://github.com/Raunaksplanet/Bash-Series/blob/main/BashFiles/if_else.sh)      |
+| Loops in Bash                         | [🔗 for,while,multiplication table](https://github.com/Raunaksplanet/Bash-Series/blob/main/BashFiles/loops.sh)      |
 
 
 # Bash Syllabus 
