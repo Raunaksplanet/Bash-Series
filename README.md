@@ -9,7 +9,7 @@
 | Topic                                 |                                               Link                                                      |  
 |---------------------------------------|---------------------------------------------------------------------------------------------------------|
 | **Introduction**                      |                                                                                                         |
-| First Program in Bash                 | [🔗 Hello World](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/FirstCode.py)      |
+| First Program in Bash                 | [🔗 Hello World](https://github.com/Raunaksplanet/Bash-Series/blob/main/BashFiles/FirstProgram.sh)      |
 
 
 
