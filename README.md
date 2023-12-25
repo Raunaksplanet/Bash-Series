@@ -13,6 +13,6 @@
 
 
 
-# My Bash Syllabus 
+# Bash Syllabus 
 
   
