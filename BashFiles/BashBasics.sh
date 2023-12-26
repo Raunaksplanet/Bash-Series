@@ -23,8 +23,8 @@ echo "This Command print working directory: $command"
 echo "This Command print host $command2"
 # ------------------------------ #
 
-# User input
-echo "Enter name: " 
+# User input (stop next line character)
+echo -n "Enter name: " 
 read naam
 echo "Your Name is $naam"
 # ------------------------------ #
