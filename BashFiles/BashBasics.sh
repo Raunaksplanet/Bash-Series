@@ -28,3 +28,9 @@ echo "Enter name: "
 read naam
 echo "Your Name is $naam"
 # ------------------------------ #
+echo "Sleep function is....."
+sleep 3
+echo "Working....."
+sleep 2 
+echo "Are you seeing any difference ?"
+# ------------------------------ #
